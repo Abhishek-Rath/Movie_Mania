@@ -4,7 +4,7 @@
 
 #### Reference: https://www.youtube.com/watch?v=b9eMGE7QtTk
 
-<br><br>
+<br>
 ## Steps to run on your Local Machine
 1. Clone the repository
 
