@@ -2,10 +2,11 @@
 
 ### API: https://www.omdbapi.com/
 
-#### Reference: https://www.youtube.com/watch?v=b9eMGE7QtTk
+### Reference: https://www.youtube.com/watch?v=b9eMGE7QtTk
 
 <br>
-## Steps to run on your Local Machine
+
+# Steps to run on your Local Machine
 1. Clone the repository
 
       ```https://github.com/Abhishek-Rath/Movie_Mania.git```
